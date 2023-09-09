@@ -1,0 +1,19 @@
+
+1) Import attached data in SQL table "Practice_1" in your schema
+2) Write query to select policy_ref,age,eduction columns from "Practice_1" table
+3) Modify Occupation to "Business" & Education to "Masters" for policy_holder_partid (3616582,222778) of "Practice_1" table
+4) Remove record of policy_ref (70303998) from "Practice_1" table
+5) Insert any two dummy records of your own choice in "Practice_1" table
+6) Write a query to filter matriculation and salaried customers
+7) Write a query to arrange data in descending order by annulized
+8) write a query to find out how many null values in age column 
+9) For all records of "Practice_1" table take product_id,booking_frequency and term_start_date from fact_policy table and 
+   create table "Practice_2" 
+10) Write a query to get latest policy of customer using "Practice_2" table
+11) write a query to get first 500 records of "Practice_1" table
+12) Write a query to create new column "Age_group" using "Practice_1" table for mentioned categories
+    0-18,19-30,31-45,46-60,more than 60 and create table "Practice_3"
+13) write a query to get Education, occupation & age_group wise policy count, customer count & total premium
+14) write a query to give grant of "Practice_1" table to schema PA_SSHIRSAT
+15) Write a code to extract "Practice_1" table data in R 
+
